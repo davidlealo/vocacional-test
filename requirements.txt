@@ -1,0 +1,5 @@
+# Requisitos para ejecutar los notebooks de Azure OpenAI
+python-dotenv==1.0.1
+requests==2.32.3
+openai==1.45.0
+ipykernel>=6.29.4
